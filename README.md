@@ -17,7 +17,10 @@ There two python files and a model file of (a-z) english alphabets.
 ## 3. Drawing mode
   Open full palm and write character; recognizes only tip of index finger.\
   To input written characte, close up or tap the thumb and the little  finger.\
-  To clear drawing in case to reset close whole palm and open again to begin drawing from start.
+  To clear drawing in case to reset close whole palm and open again to begin drawing from start.\
+  
+Use this to get project:
+git clone https://github.com/Atharva-V/Virtual-Input-System
   
   # Here is a short video for demostration.
   
