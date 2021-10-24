@@ -3,12 +3,12 @@ This is a HCI project program created with OpenCV which is capable of simulating
 There two python files and a model file of (a-z) english alphabets.\
 
 ->First is handtracker which uses mediapipline to track hand movement.\
-->Second is the main file.\
+->Second is the main file.
 
 ## Basically there are 3 modes:\
 * Cursor moving mode
 * Clicking mode
-* Drawing mode ( this is where we draw, predict and input character)\
+* Drawing mode ( this is where we draw, predict and input character)
 
 ## 1. Moving Mode
   Only index finger up moves mouse.
@@ -17,7 +17,7 @@ There two python files and a model file of (a-z) english alphabets.\
 ## 3. Drawing mode
   Open full palm and write character; recognizes only tip of index finger.\
   To input written characte, close up or tap the thumb and the little  finger.\
-  To clear drawing in case to reset close whole palm and open again to begin drawing from start.\
+  To clear drawing in case to reset close whole palm and open again to begin drawing from start.
   
   # Here is a short video for demostration.
   
