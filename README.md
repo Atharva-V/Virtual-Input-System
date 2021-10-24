@@ -20,7 +20,9 @@ There two python files and a model file of (a-z) english alphabets.
   To clear drawing in case to reset close whole palm and open again to begin drawing from start.\
   
 Use this to get project:
+```
 git clone https://github.com/Atharva-V/Virtual-Input-System
+```
   
   # Here is a short video for demostration.
   
