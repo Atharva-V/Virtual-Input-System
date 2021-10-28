@@ -1,5 +1,5 @@
-# Virtual-Input-System
-This is a HCI project program created with OpenCV which is capable of simulating keyboard and mouse inputs virtually on camera with bare hands.\
+# Virtual-Input-System 
+This is a HCI( Human Computer Interaction) project program created with OpenCV which is capable of simulating keyboard and mouse inputs virtually on camera with bare hands (Virtaul-Mouse-virtual-keyboard-writing).\
 There two python files and a model file of (a-z) english alphabets.
 
 ->First is handtracker which uses mediapipline to track hand movement.\
